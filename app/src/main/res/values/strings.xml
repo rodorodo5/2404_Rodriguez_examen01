@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">examen01</string>
+    <string name="txt_hint_cust"></string>
+    <string name="txt_hint_operations"></string>
+</resources>
